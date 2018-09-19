@@ -1917,6 +1917,16 @@ sorter/sublime
 sorter/word
 		Simple filter to sort candidates by ascii order of word
 
+						*denite-filter-sorter/filename*
+						*denite-filter-sorter_filename*
+sorter/filename (sorter_filename)
+		Simple filter to sort candidates by ascii order of filename
+
+						*denite-filter-sorter/line*
+						*denite-filter-sorter_line*
+sorter/line (sorter_line)
+		Simple filter to sort candidates by ascii order of line number
+
 				*denite-filter-converter/abbr_word*
 converter/abbr_word
 		Convert candidate abbr to word.
